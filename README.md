@@ -14,7 +14,7 @@ Assuming that you have your source files under the `src` folder (including index
 a `build/compile.ts` script bundling your sources in `out` folder like this
 
 ```ts
-import { bundle } from "https://raw.githubusercontent.com/bxantus/bundleForWeb/v0.1.0/bundler.ts";
+import { bundle } from "https://raw.githubusercontent.com/bxantus/bundleForWeb/v1.0.0/bundler.ts";
 
 const srcFile = "src/main.ts" // your main script file
 const out = "out"
